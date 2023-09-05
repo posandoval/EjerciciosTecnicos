@@ -1,6 +1,6 @@
-## Ejercicios Tecnicos
+## Ejercicios Técnicos
 1. Voltear un String
-2. Numero Capicua: Si se lee igual de izquierda a derecha o viceversa
+2. Numero "Capicua": Si se lee igual de izquierda a derecha o viceversa
 3. Imprimir el numero de caracteres individuales repetidos de un texto
 4. caracteres repetidos de un texto
 5. Multiplo de un numero
